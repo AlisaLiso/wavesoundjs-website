@@ -1,7 +1,7 @@
 {
-  "name": "wavesoundjs-tests",
+  "name": "wavesoundjs-website",
   "version": "1.0.0",
-  "description": "Test wavesoundjs npm package",
+  "description": "Wsavesoundjs npm package",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html -p 80"

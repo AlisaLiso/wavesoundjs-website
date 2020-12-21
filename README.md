@@ -1,4 +1,4 @@
-# wavesoundjs Tests
+# wavesoundjs website
 
 ## Development
 
